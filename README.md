@@ -6,7 +6,7 @@ HTML CSS Javascript
 
 ## Image in project
 
-![Alt text](project.png "Lun Dev") 
+![Alt text](project.PNG "Brian Rono") 
 
 ## Built By
 
